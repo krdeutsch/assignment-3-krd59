@@ -4,7 +4,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About Us"
+    - text: "About Kaitlin"
       href: Kaitlin.html
+    - text: "About Kass"
+      href: kass.html
 output_dir: "."
 
