@@ -1,9 +1,10 @@
-output_dir: "."
+name: "Deutsch Website"
 navbar:
+  title: "NTRES 6100 site"
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
+    - text: "About Us"
       href: Kaitlin.html
-      
+output_dir: "."
 
