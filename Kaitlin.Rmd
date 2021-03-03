@@ -8,6 +8,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## About Me
+<br>
+![](https://www.nature.org/content/dam/tnc/nature/en/graphics/general/NCM_SPR20_Flourish1-2.jpg?w=828&h=550%201x,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/dam/tnc/nature/en/graphics/general/NCM_SPR20_Flourish1-2.jpg?w=828&h=550&dpr=2%202x)
+<br>
 
 ### Education 
 * **University of South Florida   |   2015**
@@ -26,6 +29,6 @@ knitr::opts_chunk$set(echo = TRUE)
 * Importance of biotic pollination in crop production
 
 <br>
-![](https://www.nature.org/content/dam/tnc/nature/en/graphics/general/NCM_SPR20_Flourish1-2.jpg?w=828&h=550%201x,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/dam/tnc/nature/en/graphics/general/NCM_SPR20_Flourish1-2.jpg?w=828&h=550&dpr=2%202x)
+![](Philoliche-Ipomoea-HR2.jpg)
 <br>
 
