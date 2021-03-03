@@ -1,0 +1,31 @@
+---
+title: "Kaitlin Deutsch"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About Me
+
+### Education 
+* **University of South Florida   |   2015**
+  + B.S. Environmental Science & Policy. 
+  + B.S. Environmental Biology. 
+* **University of Oxford    |   2016**
+  + M.S. Biodiversity, Conservation, and Management
+* **Cornell University   | In progress**				           
+  + Ph.D. Entomology 
+<br>
+
+### Research Interests
+* Wild pollinator conservation 
+* Disease ecology of bees and hover flies
+* Impact of land-use change on pollinator communities
+* Importance of biotic pollination in crop production
+
+<br>
+![](https://www.nature.org/content/dam/tnc/nature/en/graphics/general/NCM_SPR20_Flourish1-2.jpg?w=828&h=550%201x,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/dam/tnc/nature/en/graphics/general/NCM_SPR20_Flourish1-2.jpg?w=828&h=550&dpr=2%202x)
+<br>
+

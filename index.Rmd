@@ -1,0 +1,19 @@
+---
+title: "Welcome!"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About this site 
+Welcome to my GitHub website. My repositories can be found [here](https://github.com/krdeutsch).
+<br>
+
+I have collaborated with NAME on this project, whose repositories can be accessed here. 
+
+<br>
+<br>
+![We are entomologists studying pollinator health and conservation. Check out our research!](pollination-hero.png)
+
