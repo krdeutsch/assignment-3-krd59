@@ -8,12 +8,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## About this site 
-Welcome to my GitHub website. My repositories can be found [here](https://github.com/krdeutsch).
+My name is **Kaitlin Deutsch**, and this is my GitHub website for Assignment 3. My repositories can be found [here](https://github.com/krdeutsch).
 <br>
 
-I have collaborated with NAME on this project, whose repositories can be accessed here. 
+I have collaborated with **Kass Urban Mead** on this project, whose repositories can be accessed [here](https://github.com/Kass-UM). 
 
 <br>
 <br>
-![We are entomologists studying pollinator health and conservation. Check out our research!](pollination-hero.png)
+![We are entomologists studying pollinator health and conservation. We are excited to tell you a little bit about our research!](pollination-hero.png)
 
