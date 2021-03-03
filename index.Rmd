@@ -13,7 +13,8 @@ My name is **Kaitlin Deutsch**, and this is my GitHub website for Assignment 3. 
 
 I have collaborated with **Kass Urban Mead** on this project, whose repositories can be accessed [here](https://github.com/Kass-UM). 
 
-<br>
-<br>
-![We are entomologists studying pollinator health and conservation. We are excited to tell you a little bit about our research!](pollination-hero.png)
 
+![We are entomologists studying pollinator health and conservation and we are excited to tell you a little bit about our research!](pollination-hero.png)
+Our research investigates the health of wild bees and hoverflies! 
+<br>
+<br>
