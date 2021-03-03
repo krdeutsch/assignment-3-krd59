@@ -1,0 +1,16 @@
+---
+output: html_document
+---
+
+
+# Welcome to Kass's page! *it's an adventure here!*
+
+* unordered fact #3: I like to dye my hair and grow plants
+
+* unordered fact #1: roller skates are the best things on earth
+
+* unordered fact #2: Chocolate cake is deeeee-licious
+
+![tomatoes explosively growing](tomatoes.JPG)
+
+![late summer fig, juicy goodness](fig.JPG)
